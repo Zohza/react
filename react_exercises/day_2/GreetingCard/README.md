@@ -1,0 +1,1 @@
+![GreetingCard](https://github.com/Zohza/react/issues/4#issue-3532366193)
