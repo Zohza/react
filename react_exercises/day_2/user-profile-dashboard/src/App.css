@@ -1,0 +1,31 @@
+p{
+  font-size: 20px;
+}
+h1{
+  font-weight: bold;
+  color:blue
+}
+.content{
+  text-align: center;
+}
+img{
+  border-radius: 10px;
+}
+
+.colorChange{
+  background-color: rgb(85, 85, 163);
+  padding: 20px;
+  border-radius: 10px;
+  margin-left: 7px;
+  
+}
+.skills{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.colorChange:hover{
+  background-color:black;
+  color: white;
+  transition: all 0.5 ease-out;
+}

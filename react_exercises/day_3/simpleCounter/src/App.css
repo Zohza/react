@@ -1,0 +1,31 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+ 
+ 
+}
+body{
+  background: rgb(245, 244, 244);
+}
+h1{
+  color: rgb(116, 77, 77);
+  font-weight: larger;
+
+  
+}
+button{
+  padding: 10px;
+  margin-left: 10px;
+  width: 250px;
+  background-color: rgb(173, 136, 136);
+  border-radius: 5px;
+  outline: none;
+}
+p{
+  color: rgb(116, 77, 77);
+  font-size: 20px;
+  text-align: center;
+  
+}

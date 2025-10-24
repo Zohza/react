@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.content{
+  padding: 15px;
+}
+div{
+  text-align: center;
+  margin: 10px 20px;
+  border-radius: 10px;
+  
+
+}

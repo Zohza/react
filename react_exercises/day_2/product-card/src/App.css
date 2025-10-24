@@ -1,0 +1,18 @@
+
+div{
+  padding: 20px;
+  margin-left: 20px;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.instock> *:last-child {
+ color: green;
+}
+.not-instock> *:last-child {
+ color: red;
+}
