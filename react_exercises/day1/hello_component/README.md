@@ -1,0 +1,1 @@
+![helloComponent](https://github.com/Zohza/react/issues/1#issue-3520342973)

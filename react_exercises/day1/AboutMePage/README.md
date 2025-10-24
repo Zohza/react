@@ -1,0 +1,1 @@
+![aboutMePage](https://github.com/user-attachments/assets/a5e7c168-6840-46db-9b3c-34798ebf6718)

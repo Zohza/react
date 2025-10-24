@@ -1,0 +1,31 @@
+body{
+  background: green;
+  color: white;
+  font-size: 20px;
+}
+*{
+  margin: 0;
+  padding:0;
+}
+.header, .skills, .location, .footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+li{
+  list-style: none;
+  display: inline;
+  margin-left: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div{
+line-height: 2;
+}
+aside{
+  display: flex;
+  flex-direction: column;
+}
+aside a{
+ text-decoration: none;
+
+}
